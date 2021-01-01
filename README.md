@@ -1,0 +1,2 @@
+# my-bin
+my bin
